@@ -2,7 +2,7 @@
 layout: Post
 permalink: /notes
 feedformat: card
-title: Portfolio
+title: Notes
 ---
 __
 
