@@ -3,8 +3,9 @@ title : Note1
 feed: show
 date : 19-11-2023
 ---
-<link rel="stylesheet" type="text/css" href="_notes/note.css">
+<head><link rel="stylesheet" type="text/css" href="_notes/note.css">
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
 
 | | **3 修改完成** |**10 代修改**|
 | :--:| :----- | :-- |
