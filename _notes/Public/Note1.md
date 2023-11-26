@@ -3,7 +3,7 @@ title : Note1
 feed: show
 date : 19-11-2023
 ---
-<link rel="stylesheet" type="text/css" href="/note.css">
+<link rel="stylesheet" type="text/css" href="note/note.css">
 
 | | **3 修改完成** |**10 代修改**|
 | :--:| :----- | :-- |
